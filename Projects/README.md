@@ -1,2 +1,2 @@
 # Projects
-My personal projects
+For CODSOFT internship - Batch - JAN BATCH A29
